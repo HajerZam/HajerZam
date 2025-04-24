@@ -10,3 +10,12 @@
 HajerZam/HajerZam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+echo "⚠️  Initializing system self-destruct sequence..."
+sleep 1
+for i in {10..1}; do
+    echo "$i..."
+    sleep 1
+done
+echo "💥 SYSTEM FAILURE IMMINENT 💥"
+sleep 2
+echo "Just kidding. But seriously, your code smells like spaghetti."
