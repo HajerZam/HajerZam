@@ -34,15 +34,7 @@
 ### ⚙️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,php,mysql" />
-</p>
-
----
-
-### ⚙️ Tech & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,canva,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,php,mysql,,figma,github,vscode" />
 </p>
 
 ---
