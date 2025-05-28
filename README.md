@@ -34,7 +34,7 @@
 ### ⚙️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,vim,bash,c,php,mysql,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,vim,bash,c,php,mysql,figma,linux,github,vscode" />
 </p>
 
 ---
