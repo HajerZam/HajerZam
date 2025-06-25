@@ -14,7 +14,9 @@
 
 ---
 
-![Cute Pixel Banner](https://imgur.com/a/LGeWHJm)
+![Cute Pixel Banner](https://imgur.com/h1c0PFU)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/LGeWHJm" data-context="false" ><a href="//imgur.com/a/LGeWHJm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ---
 
