@@ -47,7 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HajerZam&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HajerZam&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajerZam&layout=compact&theme=tokyonight" />
 </p>
 
