@@ -14,7 +14,7 @@
 
 ---
 
-![Cute Pixel Banner](https://imgur.com/h1c0PFU)
+![Cute Pixel Banner](https://i.imgur.com/h1c0PFU.gif)
 
 ---
 
