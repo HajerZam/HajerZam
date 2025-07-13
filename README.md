@@ -27,8 +27,7 @@
   <a href="https://www.linkedin.com/in/hajer-alzammazi-55901731b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://HajerZamPortfolio.com">
-      <p>uh oh! the link doesn't work just yet!</p>
+  <a href="https://hajerzam.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
