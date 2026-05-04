@@ -1,6 +1,6 @@
 <h1 align="center"> $> Why Hello There :)..., I'm Hajer Alzammazi| 👾</h1>
 <p align="center">
-✨ Undergraduate Student @ 42 Roma Luiss | Frontend Dev | UI/UX Enthusiast ✨
+✨ Undergraduate Student @ 42 Roma Elis | Frontend Dev | UI/UX Enthusiast ✨
 </p>
 
 ---
