@@ -8,7 +8,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Informatics Major, Tunisia (2019–2023)
-- 💡 Currently studying at 42 Roma Luiss since December 9, 2024
+- 💡 Currently studying at 42 Roma Elis since December 9, 2024
 - 🌐 experienced in Frontend Development, UI/UX Design, and Graphic Design
 - 🚀 Looking to join collaborative projects to build real-world experience
 
